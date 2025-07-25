@@ -66,5 +66,10 @@ Employee attrition is a costly and disruptive problem. Most organizations lack a
 - **IDE:** Jupyter Notebook / Any Python IDE  
 - **Libraries:** `pandas`, `scikit-learn`, `matplotlib`, `seaborn`
 
-## 📂 Folder Structure  
+## Demo Video
+
+
+https://github.com/user-attachments/assets/81d7b2d5-e799-4f9f-9134-6133ed5da072
+
+
 
